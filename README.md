@@ -2,7 +2,7 @@
 
 Pour compléter cette étape du laboratoire:
 
-1. Créez un *fork* de ce dépôt sur votre compte GitHub.
+1. À droite du titre *lab-github* de ce dépôt, vous trouverez plusieurs boutons, dont un `Fork`. Cliquez sur ce bouton, puis suivez les étapes affichées pour créer un `fork` de ce dépôt, c'est-à-dire une copie du dépôt sur votre propre compte GitHub.
 2. Clonez votre *fork* sur votre poste de travail.
 3. Sur votre dépôt Git local, créez une nouvelle branche appelée `ajouter-fonction`.
 4. Déplacez-vous sur cette branche.
